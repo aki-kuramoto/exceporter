@@ -2,6 +2,8 @@
 
 A CLI tool to export Google Spreadsheets as `.xlsx` files to your local machine.
 
+[![Latest Release](https://img.shields.io/github/v/release/aki-kuramoto/exceporter?style=for-the-badge&label=Download%20Latest%20Release&color=2ea44f)](https://github.com/aki-kuramoto/exceporter/releases/latest)
+
 **[日本語版は下部をご覧ください / Japanese version below](#exceporter-ja)**
 
 ---
@@ -118,6 +120,8 @@ MIT
 # exceporter
 
 Google Spreadsheets をローカルに `.xlsx` 形式でエクスポートする CLI ツールです。
+
+[![最新リリース](https://img.shields.io/github/v/release/aki-kuramoto/exceporter?style=for-the-badge&label=%E6%9C%80%E6%96%B0%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89&color=2ea44f)](https://github.com/aki-kuramoto/exceporter/releases/latest)
 
 ## 前提条件
 
